@@ -1,6 +1,6 @@
 # plant-landing-page
 
-[🌐 Live Preview](https://street-style-landing-page-neon.vercel.app/)
+[🌐 Live Preview](https://plant-landing-page.vercel.app/)
 
 - ✅ CSS - position, variables, use id for styling
 - ✅ Responsiveness (for all devices)
